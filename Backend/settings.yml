@@ -1,0 +1,8 @@
+---
+  hostIP: 10.0.0.111
+  hostPort: 55056
+  dbHost: 127.0.0.1
+  dbPort: 5432
+  dbUser: postgres
+  dbPassword: apassword
+  dbName: p3project
